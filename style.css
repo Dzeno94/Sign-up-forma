@@ -1,0 +1,46 @@
+body{
+
+background-color: #000;
+}
+.form-group{
+  width: 100%;
+ margin-bottom: 5px;
+}
+.form-label{
+    width:120px;
+    display: inline-block; 
+    text-align: right;
+}
+.form-input{
+    display: inline-block;
+    width: 250px;
+}
+#main{
+    width: 390px;
+    margin: auto;
+    background-color: aquamarine; 
+    padding: 15px;
+}
+.Sign{
+    text-align: left;
+}
+.sidetext{
+    text-align: center;
+   font-size: small;
+}
+#button  {
+   background-color: lightgreen;
+   height: 35px;
+  
+   
+   
+}
+.month{
+    width: 80px;
+}
+.day{
+    width: 40px;
+}
+.year{
+    width: 80px;
+}
